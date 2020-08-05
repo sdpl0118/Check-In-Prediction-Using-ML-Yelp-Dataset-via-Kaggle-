@@ -6,6 +6,8 @@
 
 - Team report and analysis is available on Medium via ["Predicting Attributes Influencing User Engagement on Yelp"](https://medium.com/@yashkanoongo/yelp-engagement-bbd9cb1ce2c9) 
 
+- The orginal dataset from Yelp can be found [here](https://www.kaggle.com/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_checkin.json)
+
 - Original code completed on: Aug 23, 2019
 
 - Modified by myself on: Aug 04, 2020
