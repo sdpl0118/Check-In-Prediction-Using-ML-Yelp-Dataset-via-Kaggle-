@@ -1,4 +1,4 @@
-# Check-In Prediction Using ML (Yelp Dataset via Kaggle)
+# Yelp Check-In Prediction Using ML (Yelp Dataset via Kaggle)
 
 **Notes**
 
